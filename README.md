@@ -51,11 +51,11 @@ Soutenance :
 La soutenance se déroulera en visioconférence et durera 30 minutes. 
 
 Pendant la soutenance, l’évaluateur représentera le jury de l’appel à projet :
-- Présentation (20 minutes) 
-- Rappel de l’appel à projets et explication de votre idée d’application (2 mn)
-- Votre démarche méthodologique de nettoyage (8 mn)
-- Votre démarche méthodologique d’exploration de données (8 mn)
-- En synthèse, présentation des faits pertinents pour l’application (2 mn)
+- Présentation (20 minutes)  
+    -> Rappel de l’appel à projets et explication de votre idée d’application (2 mn)  
+    -> Votre démarche méthodologique de nettoyage (8 mn)  
+    -> Votre démarche méthodologique d’exploration de données (8 mn)  
+    -> En synthèse, présentation des faits pertinents pour l’application (2 mn)  
 - Discussion (5 minutes)
 L’évaluateur vous challengera sur vos choix. 
 - Débriefing (5 minutes)
