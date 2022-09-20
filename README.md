@@ -1,36 +1,19 @@
 # Concevez-une-application-au-service-de-la-sante-publique
-Projet 3 OpenClassRooms
 
-L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
+## Purposes of the project:
 
-Extrait de l’appel à projets :
+### finding innovative ideas for food-related applications from the Open Food Facts dataset
+the dataset contains 4 different types of features:
+1)	General information on the product sheet: name, date of modification, etc.
+2)	A set of tags: product category, location, origin, etc.
+3)	The ingredients making up the products and their possible additives.
+4)	Nutritional information: amount in grams of a nutrient per 100 grams of product.
 
-Le jeu de données Open Food Facts est disponible sur le site officiel
 
-Les champs sont séparés en quatre sections :
-- Les informations générales sur la fiche du produit : nom, date de modification, etc.
-- Un ensemble de tags : catégorie du produit, localisation, origine, etc.
-- Les ingrédients composant les produits et leurs additifs éventuels.
-- Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
+## Content of the repository : 
+- Cleaning Jupyter Notebook : PSanté_01_NotebookNettoyage.ipynb
+    Cleaning and selecting convenient features for the app idea
+- Exploratory Jupyter Notebook : PSanté_02_NotebookExploration.ipynb
+    Exploratory Data Analysis and Scoring for the application
+- Slides of the presentation
 
-Votre mission :
-Après avoir lu l’appel à projets, voici les différentes étapes que vous avez identifiées :
-
-1) Traiter le jeu de données, en :
-- Réfléchissant à une idée d’application.
-- Repérant des variables pertinentes pour les traitements à venir, et nécessaires pour votre idée d’application.
-- Nettoyant les données en :  
-    -> mettant en évidence les éventuelles valeurs manquantes, avec au moins 3 méthodes de traitement adaptées aux variables concernées,  
-    -> identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable.  
-    -> Automatisant ces traitements pour éviter de répéter ces opérations  
-Le programme doit fonctionner si la base de données est légèrement modifiée (ajout d’entrées, par exemple).
-
-2) Tout au long de l’analyse, produire des visualisations afin de mieux comprendre les données. Effectuer une analyse univariée pour chaque variable intéressante, afin de synthétiser son comportement.
-
-L’appel à projets spécifie que l’analyse doit être simple à comprendre pour un public néophyte. Soyez donc attentif à la lisibilité : taille des textes, choix des couleurs, netteté suffisante, et variez les graphiques (boxplots, histogrammes, diagrammes circulaires, nuages de points…) pour illustrer au mieux votre propos.
-
-3) Confirmer ou infirmer les hypothèses à l’aide d’une analyse multivariée. Effectuer les tests statistiques appropriés pour vérifier la significativité des résultats.
-
-4) Justifier votre idée d’application. Identifier des arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
-
-5) Rédiger un rapport d’exploration et pitcher votre idée durant la soutenance du projet.
