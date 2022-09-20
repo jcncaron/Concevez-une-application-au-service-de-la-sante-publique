@@ -11,9 +11,9 @@ the dataset contains 4 different types of features:
 
 
 ## Content of the repository : 
-- Cleaning Jupyter Notebook : PSanté_01_NotebookNettoyage.ipynb
+- Cleaning Jupyter Notebook : PSanté_01_NotebookNettoyage.ipynb\
     Cleaning and selecting convenient features for the app idea
-- Exploratory Jupyter Notebook : PSanté_02_NotebookExploration.ipynb
+- Exploratory Jupyter Notebook : PSanté_02_NotebookExploration.ipynb\
     Exploratory Data Analysis and Scoring for the application
 - Slides of the presentation
 
